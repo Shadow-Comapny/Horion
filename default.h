@@ -262,9 +262,58 @@
         "visible": true
     },
     "ClickGui": {
+        "Combat": {
+            "isExtended": true,
+            "pos": {
+                "x": 10.0,
+                "y": 4.0
+            }
+        },
         "Font": 0,
+        "Gui": {
+            "isExtended": true,
+            "pos": {
+                "x": 670.2857055664063,
+                "y": 4.0
+            }
+        },
+        "Misc": {
+            "isExtended": true,
+            "pos": {
+                "x": 558.5714111328125,
+                "y": 4.0
+            }
+        },
+        "Movement": {
+            "isExtended": true,
+            "pos": {
+                "x": 223.42857360839844,
+                "y": 4.0
+            }
+        },
+        "Player": {
+            "isExtended": true,
+            "pos": {
+                "x": 335.1428527832031,
+                "y": 4.0
+            }
+        },
         "Show Tooltips": true,
         "Style": 0,
+        "Visual": {
+            "isExtended": true,
+            "pos": {
+                "x": 111.71428680419922,
+                "y": 4.0
+            }
+        },
+        "World": {
+            "isExtended": true,
+            "pos": {
+                "x": 446.8571472167969,
+                "y": 4.0
+            }
+        },
         "enabled": false,
         "keybind": 45,
         "visible": true
@@ -582,7 +631,7 @@
     "JavaInv": {
         "Custom Binds": true,
         "Item Animation": false,
-        "enabled": false,
+        "enabled": true,
         "keybind": 0,
         "visible": true
     },
@@ -766,7 +815,7 @@
     },
     "SkinStealer": {
         "Steal Capes": false,
-        "enabled": false,
+        "enabled": true,
         "keybind": 0,
         "visible": true
     },
@@ -822,7 +871,7 @@
         "Scale": 1.0,
         "Slider": false,
         "Style": 0,
-        "enabled": true,
+        "enabled": false,
         "keybind": 0,
         "visible": true
     },
@@ -956,7 +1005,7 @@
     },
     "Zoom": {
         "Smooth": true,
-        "Strength": 20.0,
+        "Strength": 100.0,
         "enabled": false,
         "keybind": 67,
         "visible": true
